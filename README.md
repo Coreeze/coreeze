@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋 I'm Cristian
+I'm a passionate Founder & Software Dev
 
-<!--
-**Coreeze/coreeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/Coreeze/coreeze/blob/main/huge.png?raw=true" target="blank"><img align="center" src="https://github.com/Coreeze/coreeze/blob/main/huge.png?raw=true" height="500" /></a>
 
-Here are some ideas to get you started:
+My mantra: **passion** first, then FITFO later. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly code in React, Solidity, Typescript.
+
+Checkout my [website](https://cristianlenta.vercel.app/) for Blog posts and more about me.
+
+### What I'm doing right now?
+- FOUNDER @ tba
+- Freelancer 💻
+
+
+### Links
+- [Twitter](https://twitter.com/CristiansenL)
+- [Website](https://cristianlenta.vercel.app/)
