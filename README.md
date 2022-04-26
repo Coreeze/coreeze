@@ -10,7 +10,7 @@ I mainly code in React, Solidity, Typescript.
 Checkout my [website](https://cristianlenta.vercel.app/) for Blog posts and more about me.
 
 ### What I'm doing right now?
-- FOUNDER @ tba
+- FOUNDER [@viventumXYZ](https://twitter.com/ViventumXYZ)
 - Freelancer 💻
 
 
