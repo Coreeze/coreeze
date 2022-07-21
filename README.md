@@ -5,7 +5,7 @@ I'm a passionate Founder & Software Dev
 
 My mantra: **passion** first, then FITFO later. 
 
-I mainly code in React, Solidity, Typescript.
+I mainly code in React, Solidity, React Native, Node.
 
 Checkout my [website](https://cristianlenta.vercel.app/) for Blog posts and more about me.
 
