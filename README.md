@@ -10,7 +10,7 @@ I mainly code in React, Solidity, React Native, NodeJS.
 Checkout my [mirror](https://mirror.xyz/crislenta.eth) for Blog posts and more about me.
 
 ### What I'm doing right now?
-- FOUNDER [@viventumXYZ](https://twitter.com/ViventumXYZ)
+- FOUNDER [@ooval.io](https://ooval.io)
 
 
 ### Links
