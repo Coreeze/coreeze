@@ -14,4 +14,4 @@ Checkout my [mirror](https://mirror.xyz/crislenta.eth) for Blog posts and more a
 
 
 ### Links
-- [Twitter](https://twitter.com/CristiansenL)
+- [Twitter](https://twitter.com/crislenta)
