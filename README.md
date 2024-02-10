@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Cristian
+## Hi there 👋 I'm Cris
 I'm a Founder & Software Engineer. I mainly code in React, Solidity, React Native, NodeJS.
 
 
