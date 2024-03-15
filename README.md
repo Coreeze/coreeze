@@ -4,6 +4,7 @@ I'm a Founder & Software Engineer. I mainly code in React, Solidity, React Nativ
 
 ### What I'm doing right now?
 - [@denk](https://getdenk.com)
+- [@ooval](https://ooval.io)
 
 
 ### Links
