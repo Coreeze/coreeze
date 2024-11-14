@@ -3,8 +3,7 @@ I'm a Founder & Software Engineer. I mainly code in React, Solidity, React Nativ
 
 
 ### What I'm doing right now?
-- [@Y](https://ymind.ai)
-- [@ooval](https://ooval.io)
+- building something new
 
 
 ### Links
